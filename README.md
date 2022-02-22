@@ -5,6 +5,10 @@
   <a>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkweon17&count_bg=%232CA4F5&title_bg=%23512AEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</a>
   <a href="https://solved.ac/mjkweon17"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mjkweon17"/></a>
 
+  <!--
+  방문자수: https://hits.seeyoufarm.com/
+  -->
+
 #
 <h3>☘️ Who am I? ☘️</h3>
 <p>Hiya! I'm Min Jae, and you can also call me MJ.</p>
@@ -56,11 +60,25 @@
 <p>
 <a href="https://mindorizip.tistory.com/" target='_blank'><img src="http://img.shields.io/badge/-Tistory-EA521F?style=flat"/></a>
 <a href="https://www.instagram.com/minjaekweon/" target='_blank'><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="mjkweon17@korea.ac.kr" target='_blank'><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mjkweon17@korea.ac.kr">
+<img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </p>
 
+<!--
+링크를 새탭 또는 새창에서 열어주는 a태그의 속성인 target='_blank'는 깃헙에서는 적용이 안됨!
+-->
+
 #
-![mjkweon17's github stats](https://github-readme-stats.vercel.app/api?username=mjkweon17&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkweon17&layout=compact&theme=tokyonight)
+
+[![Solved.ac mjkweon17](http://mazassumnida.wtf/api/generate_badge?boj=mjkweon17)](https://solved.ac/mjkweon17)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkweon17&layout=compact&theme=swift)
+
+![mjkweon17's github stats](https://github-readme-stats.vercel.app/api?username=mjkweon17&show_icons=true&theme=swift)
+
+<!--
+깃허브 스탯: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+백준 관련: https://github.com/mazassumnida/mazassumnida
+-->
 
 </div>

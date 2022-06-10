@@ -59,7 +59,6 @@
 <h3>📫 How to Reach Me 📫</h3>
 <p>
 <a href="https://mindorizip.tistory.com/" target='_blank'><img src="http://img.shields.io/badge/-Tistory-EA521F?style=flat"/></a>
-<a href="https://www.instagram.com/minjaekweon/" target='_blank'><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:mjkweon17@korea.ac.kr">
 <img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </p>

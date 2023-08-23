@@ -1,83 +1,47 @@
-<div align="center">
+# MinJae Kweon 👋 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/)](https://mindorizip.tistory.com/) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mjkweon17)](https://solved.ac/mjkweon17)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkweon17&count_bg=%232CA4F5&title_bg=%23512AEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=086EEB&height=200&section=header&text=Min%20Jae's%20GitHub&fontSize=70" />
-
-  <a>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkweon17&count_bg=%232CA4F5&title_bg=%23512AEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-  <a href="https://solved.ac/mjkweon17"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mjkweon17"/></a>
-
-  <!--
-  방문자수: https://hits.seeyoufarm.com/
-  -->
-
-#
-<h3>☘️ Who am I? ☘️</h3>
-<p>Hiya! I'm Min Jae, and you can also call me MJ.</p>
-<p>I'm currently majoring in Computer Convergence Software and Artificial Intelligence at Korea University.</p>
-<p>My dream is to release a service that benefits lots of people!</p>
-</p>
-
-#
-<h3>💖 I Love... 💖</h3>
-<p>💻Programming, ✈️Traveling,</p>
-<p>🚲Cycling, ⛰️Hiking, 📺Youtube</p>
-
-#
-<h3>⭐ Tech Stack ⭐</h3>
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-</p>
+  <em>
+      The Software Engineer
+  </em>
 <p>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/>
-</p>
 
-#
-<h3>🐧 I've Used... 🐧</h3>
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</p>
-<!-- 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
--->
+## 🎓Education
+- **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(2017.3. ~ 2023.2)*
+- **고려대학교 인공지능융합전공** *(2022.3 ~ 2023.2)*
+- **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
 
-#
-<h3>📫 How to Reach Me 📫</h3>
-<p>
-<a href="https://mindorizip.tistory.com/" target='_blank'><img src="http://img.shields.io/badge/-Tistory-EA521F?style=flat"/></a>
-<a href="mailto:mjkweon17@korea.ac.kr">
-<img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</p>
+## 👨‍💻Work Experience  
+- **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
+  - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의 즉문즉답 튜터
+- **미디어젠(주)** - R&D 기획팀 인턴 *(2021.12 ~ 2022.2)*
+  - 인공지능 데이터 수집/정제/검수 과정에 참여
+  - 챗봇에 활용되는 AI 기술, 대화 데이터 구축 과정, AI 튜터 시장과 관련하여 조사 및 분석 후 보고서 작성
+- **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
+  - 프로그래밍 언어(C, C++)를 배우는 학생들의 질문을 받고 답변해주는 근로장학생
 
-<!--
-링크를 새탭 또는 새창에서 열어주는 a태그의 속성인 target='_blank'는 깃헙에서는 적용이 안됨!
--->
+## 📚Teaching Experience
 
-#
+## 💻Other Experience
+- **KUCC** - Manager & Member *(2023)*
 
-[![Solved.ac mjkweon17](http://mazassumnida.wtf/api/generate_badge?boj=mjkweon17)](https://solved.ac/mjkweon17)
+## Awards
+| Date | Competition | Award | Institution |
+|:---:|:---:|:---:|:---:|
+| 2023.6 | KUS-Tutoring | 최우수상 | 고려대학교 교수학습정보센터 |
+| 2022.12.22 | 고려대안암동캠퍼스타운 제13회 창업입주경진대회 | 입상 | 고려대학교 캠퍼스타운 조성 추진단 |
+| 2022.12.22 | 고려대안암동캠퍼스타운 제13회 창업입주경진대회 | 입상 | 고려대학교 캠퍼스타운 조성 추진단 |
+| 2022.2 | SEMO 클래스 공모전 | 장려상 | 고려대학교 교수학습지원센터 |
+| 2021.12.3 | 2021 스마트 APP 아이디어 발표 공모전 | 최우수상 | 고려대학교 세종캠퍼스 IT지원팀 |
+| 2021.10.26 | 제4회 KUDING 프로그래밍 경진대회 | 4등 | 고려대학교 컴퓨터융합소프트웨어학과 |
+| 2021.10.22 | 2021 청년 푸드테크 창업 역량강화 교육 | 우수상 | 고려대학교 |
+| 2020.12 | 고려대학교 세종캠퍼스 프레젠테이션 경진대회 | 우수상 | 고려대학교 교수학습지원센터 |
+| 2019.12 | 2019-2 스터디그룹 | 우수상 | 고려대학교 교수학습지원센터 |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkweon17&layout=compact&theme=swift)
+## Project
+| Period | Project | Intro | Role |
+|:---:|:---:|:---:|:---:|
+| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | Library Service for KUCC Members | Backend |
 
-![mjkweon17's github stats](https://github-readme-stats.vercel.app/api?username=mjkweon17&show_icons=true&theme=swift)
-
-<!--
-깃허브 스탯: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-백준 관련: https://github.com/mazassumnida/mazassumnida
--->
-
-</div>
+## Contact
+- Email: mjkweon17@korea.ac.kr

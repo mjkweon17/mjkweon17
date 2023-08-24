@@ -51,7 +51,7 @@
   - TOEIC - 910 *(2023.3.26)*
   - Capable of writing and presenting academic papers in English <!-- with clarity and precision, given the time to prepare. -->
 
-## 💻Other Experience
+## 💻Other Experiences
 - **KUCC** *(Korea University Computer Club)* - 교류친목부 대회협력팀 *(2023)*
 
 ## 📫 Contact

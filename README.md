@@ -56,3 +56,4 @@
 
 ## 📫 Contact
 - Email: mjkweon17@korea.ac.kr
+- Discord: minjaekweon

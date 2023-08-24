@@ -11,6 +11,10 @@
 - **고려대학교 인공지능융합전공** *(2022.3 ~ 2023.2)*
 - **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
 
+## 📝Publications
+- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
+  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
+
 ## 👨‍💻Work Experience  
 - **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
   - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의 수강생 담당
@@ -25,14 +29,12 @@
   - 고려대학교 세종캠퍼스 최우수 튜터 선정
 - **자료구조 튜터링** *(2022.3 ~ 2022.6)*
 
-## 📝Publications
-- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
-  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
-
 ## 💻 Project
 | Period | Project | Intro | Role | Stack |
 |:---:|:---:|:---:|:---:|:---:|
-| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | Library Service for KUCC Members | Backend Part Lead | FastAPI, MySQL NCP, GitHub Actions, Docker |
+| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | KUCC 도서 관리 사이트 서버 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
+| 2022.7 ~ 2022.12 | [REAV](https://github.com/REAV-Web/REAV-back-end) | 소비자 리뷰를 분석해서 AI 평점을 보여주는 쇼핑몰 웹 | Backend, CD | Spring Boot, MariaDB, AWS EB, GitHub Actions |
+| 2022.7 ~ 2022.12 | [KULib](https://github.com/KULib-Project/KULibraryApp_FE) | 학교 도서관 앱 개선 프로젝트 | Frontend | React Native, Expo |
 | 2022.5 ~ 2022.6 | 영화 악성 리뷰 분석 | 데이터 마이닝을 통해 영화 악성 리뷰에 자주 사용되는 단어들과 악성 리뷰들의 토픽 찾기 | Project Leader | scikit-learn |
 
 ## 🏆Awards

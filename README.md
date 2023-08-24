@@ -11,6 +11,30 @@
 - **고려대학교 인공지능융합전공** *(2022.3 ~ 2023.2)*
 - **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
 
+## 👨‍💻Work Experience  
+- **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
+  - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의 수강생 담당
+- **미디어젠(주)** - R&D 기획팀 인턴 *(2021.12 ~ 2022.2)*
+  - 인공지능 데이터 수집/정제/검수 과정에 참여
+  - 챗봇에 활용되는 AI 기술, 대화 데이터 구축 과정, AI 튜터 시장과 관련하여 조사 및 분석 후 보고서 작성
+- **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
+  - 프로그래밍 언어(C, C++)를 배우는 학부생들의 질문을 받고 답변
+
+## 📚Teaching Experience
+- **알고리즘 튜터링** *(2023.3 ~ 2023.6)*
+  - 고려대학교 세종캠퍼스 최우수 튜터 선정
+- **자료구조 튜터링** *(2022.3 ~ 2022.6)*
+
+## 📝Publications
+- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
+  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
+
+## 💻 Project
+| Period | Project | Intro | Role | Stack |
+|:---:|:---:|:---:|:---:|:---:|
+| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | Library Service for KUCC Members | Backend Part Lead | FastAPI, MySQL NCP, GitHub Actions, Docker |
+| 2022.5 ~ 2022.6 | 영화 악성 리뷰 분석 | 데이터 마이닝을 통해 영화 악성 리뷰에 자주 사용되는 단어들과 악성 리뷰들의 토픽 찾기 | Project Leader | scikit-learn |
+
 ## 🏆Awards
 | Date | Competition | Award | Institution |
 |:---:|:---:|:---:|:---:|
@@ -19,39 +43,14 @@
 | 2021.10.26 | 제4회 KUDING 프로그래밍 경진대회 | 4등 | 고려대학교 컴퓨터융합소프트웨어학과 |
 | 2021.10.22 | 2021 청년 푸드테크 창업 역량강화 교육 | 우수상 | 고려대학교 |
 
-## 👨‍💻Work Experience  
-- **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
-  - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의 즉문즉답 튜터
-- **미디어젠(주)** - R&D 기획팀 인턴 *(2021.12 ~ 2022.2)*
-  - 인공지능 데이터 수집/정제/검수 과정에 참여
-  - 챗봇에 활용되는 AI 기술, 대화 데이터 구축 과정, AI 튜터 시장과 관련하여 조사 및 분석 후 보고서 작성
-- **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
-  - 프로그래밍 언어(C, C++)를 배우는 학생들의 질문을 받고 답변해주는 근로장학생
-
-## 📚Teaching Experience
-- **알고리즘 튜터링** *(2023.3 ~ 2023.6)*
-  - 고려대학교 세종캠퍼스 최우수 튜터 선정
-- **자료구조 튜터링** *(2022.3 ~ 2022.6)*
-
-## 💻Other Experience
-- **KUCC** *(Korea University Computer Club)* - 교류친목부 대회협력팀 *(2023)*
-
-## 💻 Project
-| Period | Project | Intro | Role | Stack |
-|:---:|:---:|:---:|:---:|:---:|
-| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | Library Service for KUCC Members | Backend Part Lead | FastAPI, MySQL NCP, GitHub Actions, Docker |
-| 2022.5 ~ 2022.6 | 영화 악성 리뷰 분석 | 데이터 마이닝을 통해 영화 악성 리뷰에 자주 사용되는 단어들과 악성 리뷰들의 토픽 찾기 | Project Leader | scikit-learn |
-
-
-## 📝Publications
-- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
-  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
-
 ## 🗣️ Language Proficiency
 - **English**
   - OPIc- IH *(2022.3.19)*
   - TOEIC - 910 *(2023.3.26)*
   - Capable of writing and presenting academic papers in English <!-- with clarity and precision, given the time to prepare. -->
+
+## 💻Other Experience
+- **KUCC** *(Korea University Computer Club)* - 교류친목부 대회협력팀 *(2023)*
 
 ## 📫 Contact
 - Email: mjkweon17@korea.ac.kr

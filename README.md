@@ -2,7 +2,7 @@
 
 <p>
   <em>
-      A software engineer with a strong passion for backend development and artificial intelligence.
+      백엔드와 인공지능에 관심이 많은 소프트웨어 엔지니어
   </em>
 <p>
 
@@ -17,12 +17,13 @@
 
 ## 👨‍💻Work Experience  
 - **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
-  - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의 수강생 담당
+  - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의를 듣는 수강생들로부터 온라인으로 질문을 받고 최대 10분 이내로 답변을 주는 즉문즉답 튜터로 근무했습니다.
 - **미디어젠(주)** - R&D 기획팀 인턴 *(2021.12 ~ 2022.2)*
   - 인공지능 데이터 수집/정제/검수 과정에 참여
-  - 챗봇에 활용되는 AI 기술, 대화 데이터 구축 과정, AI 튜터 시장과 관련하여 조사 및 분석 후 보고서 작성
+  - 챗봇에 활용되는 AI 기술, 대화 데이터 구축 과정, AI 튜터 시장과 관련하여 조사 및 분석
 - **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
-  - 프로그래밍 언어(C, C++)를 배우는 학부생들의 질문을 받고 답변
+  - PL(Programming Learning)센터는 프로그래밍 언어(C, C++)를 배우는 학생들의 질문을 받고 함께 문제해결을 도와주는 곳입니다.
+  - 저는 이곳에서 한 학기 동안 근무하면서 많은 후배들에게 도움을 주었습니다.
 
 ## 📚Teaching Experience
 - **알고리즘 튜터링** *(2023.3 ~ 2023.6)*

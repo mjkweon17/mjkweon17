@@ -53,7 +53,7 @@
   - Capable of writing and presenting academic papers in English <!-- with clarity and precision, given the time to prepare. -->
 
 ## 💻Other Experiences
-- **KUCC** *(Korea University Computer Club)**(2023)*
+- **KUCC** *(Korea University Computer Club)* *(2023)*
 
 ## 📫 Contact
 - Email: mjkweon17@korea.ac.kr

@@ -59,5 +59,3 @@
 - Email: mjkweon17@korea.ac.kr
 - Discord: minjaekweon
 
-[![Download as PDF Button](https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=<url>)
-

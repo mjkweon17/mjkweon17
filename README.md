@@ -33,7 +33,8 @@
 ## 💻 Project
 | Period | Project | Intro | Role | Stack |
 |:---:|:---:|:---:|:---:|:---:|
-| 2023.4 ~ 2023.9 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | KUCC 도서 관리 사이트 서버 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
+| 2023.7 ~ | [Dajeong] | 가족 소통 유도 서비스 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
+| 2023.4 ~ 2023.11 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | KUCC 도서 관리 사이트 서버 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
 | 2022.10 ~ 2022.11 | [REAV](https://github.com/REAV-Web/REAV-back-end) | 소비자 리뷰를 분석해서<br/>AI 평점을 보여주는 쇼핑몰 웹 | Backend, CD | Spring Boot, MariaDB, AWS EB, GitHub Actions |
 | 2022.7 ~ 2022.12 | [KULib](https://github.com/KULib-Project/KULibraryApp_FE) | 학교 도서관 앱<br/>개선 프로젝트 | Frontend | React Native, Expo |
 | 2022.5 ~ 2022.6 | 영화 악성 리뷰 분석 | 네이버 영화 악성 리뷰를 텍스트 마이닝해서 악성 리뷰에 자주 사용되는 단어들과 악성 리뷰들의 토픽 찾기 | Project Leader | scikit-learn |

@@ -58,7 +58,8 @@
 - **KUCC** *(Korea University Computer Club)* *(2023)*
   - 운영진(교류친목부)
   - [**찍어 먹는 개발의 세계**](https://lms.kucc.co.kr/course/detail/Ki3HUnygJdfmTFQuW1wB) 세션장
-- 야놀자 특강 "실리콘밸리 개발자로 향하는 길: 구글 상위 5% 소프트웨어 엔지니어링 가이드" 수강 *(2023.7.26 ~ 2023.8.23)*
+- 야놀자 특강 수강 *(2023.7.26 ~ 2023.8.23)*
+  - 실리콘밸리 개발자로 향하는 길: 구글 상위 5% 소프트웨어 엔지니어링 가이드
 
 ## 📫 Contact
 - Email: mjkweon17@korea.ac.kr

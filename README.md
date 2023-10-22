@@ -13,6 +13,7 @@
 
 ## 📝Publications
 - [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
+  - 한국정보과학회 2023 한국컴퓨터종합학술대회 논문집, 1,172-1,174(3page), 2023
   - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
 
 ## 👨‍💻Work Experience  

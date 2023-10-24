@@ -11,11 +11,6 @@
 - **고려대학교 인공지능융합전공** *(2022.3 ~ 2024.2)*
 - **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
 
-## 📝Publications
-- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
-  - 한국정보과학회 2023 한국컴퓨터종합학술대회 논문집, 1,172-1,174(3page), 2023
-  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
-
 ## 👨‍💻Work Experience  
 - **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
   - 웹개발(MongoDB, Flask, AWS(EC2, EB) 등), 앱개발(React / Flutter, Expo 등), SQL(MySQL) 강의를 듣는 수강생들로부터 온라인으로 질문을 받고 최대 10분 이내로 답변을 주는 즉문즉답 튜터로 근무
@@ -25,8 +20,8 @@
 - **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
   - PL(Programming Learning)센터는 프로그래밍 언어(C, C++)를 배우는 학생들의 질문을 받고 함께 문제해결을 도와주는 곳
   - 한 학기 동안 근무하면서 100명이 넘는 후배들의 질문을 받고 도움을 줌
-
-## 📚Teaching Experience
+ 
+  ## 📚Teaching Experience
 - **알고리즘 튜터링** *(2023.3 ~ 2023.6)*
   - 고려대학교 세종캠퍼스 최우수 튜터 선정
 - **자료구조 튜터링** *(2022.3 ~ 2022.6)*
@@ -47,6 +42,11 @@
 | 2021.12.3 | 2021 스마트 APP 아이디어 발표 공모전 | 최우수상 | 고려대학교 세종캠퍼스 IT지원팀 |
 | 2021.10.26 | 제4회 KUDING 프로그래밍 경진대회 | 4등 | 고려대학교 컴퓨터융합소프트웨어학과 |
 | 2021.10.22 | 2021 청년 푸드테크 창업 역량강화 교육 | 우수상 | 고려대학교 |
+
+## 📝Publications
+- [Junhyun An, **Minjae Kweon**, Min Young An, Wonseok Oh.(2023).Advancements in GAN-based Image Translation: Introducing StyleGAN with Attention-based Encoding (SAE).한국정보과학회 학술발표논문집,(),1172-1174.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488309&nodeId=NODE11488309&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)
+  - 한국정보과학회 2023 한국컴퓨터종합학술대회 논문집, 1,172-1,174(3page), 2023
+  - KCC2023 인공지능 Oral 논문 영어 발표 세션에 배정됨
 
 ## 🗣️ Language Proficiency
 - **English**

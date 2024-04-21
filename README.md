@@ -40,14 +40,14 @@
 ## 💻 Project
 | Period | Project | Introduction | Role | Tech Stack |
 |:---:|:---:|:---:|:---:|:---:|
-| 2024.4 -</br>현재 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Kakao Cloud |
-| 2024.3 | **[MarkIt](https://github.com/Paranmanjang/skyst-backend)** | 사용자가 글을 작성하면 북마크에서</br>관련 자료를 자동으로 추천해주는 서비스 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform, Kakao Cloud |
-| 2024.2 | **[인생기록](https://github.com/mjkweon17/sparcs-hackathon-a3-backend)** | AI 자서전 코디네이터 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions</br>Naver Cloud Platform |
-| 2023.7 -</br>2023.1 | **Dajeong** | 가족 소통 유도 서비스 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform,  |
-| 2023.4 -</br>2023.8 | **[KUCC Lib](https://github.com/kucc/library-service-server-test)** | KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform |
-| 2022.10 -</br>2022.11 | **[REAV](https://github.com/REAV-Web/REAV-back-end)** | 소비자 리뷰를 분석해서</br>AI 평점을 보여주는 쇼핑몰 웹 | 백엔드 | Spring Boot, MariaDB, GitHub Actions,</br>AWS Elastic Beanstalk |
-| 2022.7 -</br>2022.12 | **[KULib](https://github.com/KULib-Project/KULibraryApp_FE)** | 대학교 도서관 앱 개선 프로젝트 | 프론트엔드 | React Native, Java Script, Expo |
-| 2022.5 -</br>2022.6 | **영화 리뷰 분석** | 네이버 영화 부정 리뷰에서 자주 사용되는</br>단어와 토픽 찾기 | 팀장 | scikit-learn |
+| 2024.4 - 현재 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Kakao Cloud |
+| 2024.3 | **[MarkIt](https://github.com/Paranmanjang/skyst-backend)** | 사용자가 글을 작성하면 북마크에서 관련 자료를 자동으로 추천해주는 서비스 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform, Kakao Cloud |
+| 2024.2 | **[인생기록](https://github.com/mjkweon17/sparcs-hackathon-a3-backend)** | AI 자서전 코디네이터 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform |
+| 2023.7 - 2023.1 | **Dajeong** | 가족 소통 유도 서비스 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform,  |
+| 2023.4 - 2023.8 | **[KUCC Lib](https://github.com/kucc/library-service-server-test)** | KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform |
+| 2022.10 - 2022.11 | **[REAV](https://github.com/REAV-Web/REAV-back-end)** | 소비자 리뷰를 분석해서 AI 평점을 보여주는 쇼핑몰 웹 | 백엔드 | Spring Boot, MariaDB, GitHub Actions, AWS Elastic Beanstalk |
+| 2022.7 - 2022.12 | **[KULib](https://github.com/KULib-Project/KULibraryApp_FE)** | 대학교 도서관 앱 개선 프로젝트 | 프론트엔드 | React Native, Java Script, Expo |
+| 2022.5 - 2022.6 | **영화 리뷰 분석** | 네이버 영화 부정 리뷰에서 자주 사용되는 단어와 토픽 찾기 | 팀장 | scikit-learn |
 
 
 ## 🏆Awards

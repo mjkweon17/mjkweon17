@@ -40,7 +40,7 @@
 ## 💻 Project
 | Period | Project | Introduction | Role | Tech Stack |
 |:---:|:---:|:---:|:---:|:---:|
-| 2024.4 -2024.5 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Kakao Cloud |
+| 2024.4 - 2024.5 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Kakao Cloud |
 | 2024.3 | **[MarkIt](https://github.com/Paranmanjang/skyst-backend)** | 사용자가 글을 작성하면 북마크에서 관련 자료를 자동으로 추천해주는 서비스 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform, Kakao Cloud |
 | 2024.2 | **[인생기록](https://github.com/mjkweon17/sparcs-hackathon-a3-backend)** | AI 자서전 코디네이터 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform |
 | 2023.7 - 2023.1 | **Dajeong** | 가족 소통 유도 서비스 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform,  |

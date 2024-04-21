@@ -7,9 +7,18 @@
 <p>
 
 ## 🎓Education
-- **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(2017.3. ~ 2024.2)*
-- **고려대학교 인공지능융합전공** *(2022.3 ~ 2024.2)*
+- **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(2017.3. ~ 2023.8)*
+- **고려대학교 인공지능융합전공** *(2022.3 ~ 2023.8)*
 - **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
+
+## 🚀Entrepreneurial Experience
+- **다정** - 대표 *(2023.5 ~ 2024.4)*
+  - '가족 소통 유도 애플리케이션' 
+  - 창업자 및 대표로서 전체 창업 과정 관리
+  - MVP 테스트 및 백엔드 서버 개발 총괄
+- **또닥또닥** 개발 총괄 *(2022.6 ~ 2023.1)*
+  - 심리상담 플랫폼 개발 팀
+  - 플랫폼 아키텍쳐 설계 및 기술 조언, 기획 참여
 
 ## 👨‍💻Work Experience  
 - **팀스파르타(주)** - 스파르타코딩클럽 즉문즉답튜터 *(2022.9 ~ 2023.5)*
@@ -20,25 +29,32 @@
 - **고려대학교 세종캠퍼스 PL센터** - PL 도우미 *(2021.9 ~ 2021.12)*
   - PL(Programming Learning)센터는 프로그래밍 언어(C, C++)를 배우는 학생들의 질문을 받고 함께 문제해결을 도와주는 곳
   - 한 학기 동안 근무하면서 100명이 넘는 후배들의 질문을 받고 도움을 줌
- 
-  ## 📚Teaching Experience
+
+## 📚Teaching Experience
+- [**씹어 먹는 백엔드의 세계**](https://lms.kucc.co.kr/course/detail/TFwFK2Lj3Hgmjb0SBd8x) *(2023.9 ~ 2023.12)*
+- [**찍어 먹는 개발의 세계**](https://lms.kucc.co.kr/course/detail/Ki3HUnygJdfmTFQuW1wB) *(2024.3 ~ 현재)*
 - **알고리즘 튜터링** *(2023.3 ~ 2023.6)*
   - 고려대학교 세종캠퍼스 최우수 튜터 선정
 - **자료구조 튜터링** *(2022.3 ~ 2022.6)*
 
 ## 💻 Project
-| Period | Project | Intro | Role | Stack |
+| Period | Project | Introduction | Role | Tech Stack |
 |:---:|:---:|:---:|:---:|:---:|
-| 2023.7 ~ | Dajeong | 가족 소통 유도 서비스 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
-| 2023.4 ~ 2023.11 | [KUCC Lib](https://github.com/kucc/library-service-server-test) | KUCC 도서 관리 사이트 서버 | Backend Part Lead | FastAPI, MySQL NCP, Docker, GitHub Actions |
-| 2022.10 ~ 2022.11 | [REAV](https://github.com/REAV-Web/REAV-back-end) | 소비자 리뷰를 분석해서<br/>AI 평점을 보여주는 쇼핑몰 웹 | Backend, CD | Spring Boot, MariaDB, AWS EB, GitHub Actions |
-| 2022.7 ~ 2022.12 | [KULib](https://github.com/KULib-Project/KULibraryApp_FE) | 학교 도서관 앱<br/>개선 프로젝트 | Frontend | React Native, Expo |
-| 2022.5 ~ 2022.6 | 영화 악성 리뷰 분석 | 네이버 영화 악성 리뷰를 텍스트 마이닝해서 악성 리뷰에 자주 사용되는 단어들과 악성 리뷰들의 토픽 찾기 | Project Leader | scikit-learn |
+| 2024.4 -</br>현재 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Kakao Cloud |
+| 2024.3 | **[MarkIt](https://github.com/Paranmanjang/skyst-backend)** | 사용자가 글을 작성하면 북마크에서</br>관련 자료를 자동으로 추천해주는 서비스 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform, Kakao Cloud |
+| 2024.2 | **[인생기록](https://github.com/mjkweon17/sparcs-hackathon-a3-backend)** | AI 자서전 코디네이터 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions</br>Naver Cloud Platform |
+| 2023.7 -</br>2023.1 | **Dajeong** | 가족 소통 유도 서비스 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform,  |
+| 2023.4 -</br>2023.8 | **[KUCC Lib](https://github.com/kucc/library-service-server-test)** | KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions,</br>Naver Cloud Platform |
+| 2022.10 -</br>2022.11 | **[REAV](https://github.com/REAV-Web/REAV-back-end)** | 소비자 리뷰를 분석해서</br>AI 평점을 보여주는 쇼핑몰 웹 | 백엔드 | Spring Boot, MariaDB, GitHub Actions,</br>AWS Elastic Beanstalk |
+| 2022.7 -</br>2022.12 | **[KULib](https://github.com/KULib-Project/KULibraryApp_FE)** | 대학교 도서관 앱 개선 프로젝트 | 프론트엔드 | React Native, Java Script, Expo |
+| 2022.5 -</br>2022.6 | **영화 리뷰 분석** | 네이버 영화 부정 리뷰에서 자주 사용되는</br>단어와 토픽 찾기 | 팀장 | scikit-learn |
+
 
 ## 🏆Awards
 | Date | Competition | Award | Institution |
 |:---:|:---:|:---:|:---:|
-| 2024.02.16 | SPARCS Service Hackathon 2024 | 최우수상/KAIST 총장상 | KAIST, 대전광역시 |
+| 2024.02.16 | SPARCS Service Hackathon 2024 | 최우수상(KAIST 총장상) | KAIST, 대전광역시 |
+| 2023.11.18 | 쿠씨톤 | 수상 | KUCC |
 | 2022.12.22 | 고려대안암동캠퍼스타운 제13회 창업입주경진대회 | 입상 | 고려대학교 캠퍼스타운 조성 추진단 |
 | 2021.12.3 | 2021 스마트 APP 아이디어 발표 공모전 | 최우수상 | 고려대학교 세종캠퍼스 IT지원팀 |
 | 2021.10.26 | 제4회 KUDING 프로그래밍 경진대회 | 4등 | 고려대학교 컴퓨터융합소프트웨어학과 |
@@ -51,18 +67,18 @@
 
 ## 🗣️ Language Proficiency
 - **English**
-  - OPIc- IH *(2022.3.19)*
+  - OPIc- IH *(2024.3.14)*
   - TOEIC - 910 *(2023.3.26)*
   - Capable of writing and presenting academic papers in English <!-- with clarity and precision, given the time to prepare. -->
 
 ## 💻Other Experiences
-- **KUCC** *(Korea University Computer Club)* *(2023)*
-  - 운영진(교류친목부)
-  - [**찍어 먹는 개발의 세계**](https://lms.kucc.co.kr/course/detail/Ki3HUnygJdfmTFQuW1wB) 세션장
+- **KUCC** *(Korea University Computer Club)* *(2023 ~ 현재)*
+  - 現 운영진(교류친목부)
+  - 다양한 개발 분야에 대해 다루는 '[찍어 먹는 개발의 세계](https://kucc.co.kr/community/media/637c95547582f6f944076ea827accf2f?page=1&limit=9&search=)' 세미나 진 *(2023.11)*
+  - SKYST 컨퍼런스 - '10분으로 배우는 웹 개발 프로젝트의 프로세스 ' 세션 진행 *(2023.11)*
+  - KUCC 50주년 홈커밍 데이 운영 스태프 *(2023.8)*
 - 여름 야놀자 개발자 특강 수강 *(2023.7.26 ~ 2023.8.23)*
   - 실리콘밸리 개발자로 향하는 길: 구글 상위 5% 소프트웨어 엔지니어링 가이드
 
 ## 📫 Contact
 - Email: mjkweon17@korea.ac.kr
-- Discord: minjaekweon
-

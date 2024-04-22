@@ -50,7 +50,7 @@
 ## 🏆Awards
 | Date | Competition | Award | Institution |
 |:---:|:---:|:---:|:---:|
-| 2024.02.16 | SPARCS Service Hackathon 2024 | 최우수상(KAIST 총장상) | KAIST, 대전광역시 |
+| 2024.02.16 | SPARCS Service Hackathon 2024 | KAIST 총장상(최우수상) | KAIST, 대전광역시 |
 | 2023.11.18 | 쿠씨톤 | 수상 | KUCC |
 | 2022.12.22 | 고려대안암동캠퍼스타운 제13회 창업입주경진대회 | 입상 | 고려대학교 캠퍼스타운 조성 추진단 |
 | 2021.12.3 | 2021 스마트 APP 아이디어 발표 공모전 | 최우수상 | 고려대학교 세종캠퍼스 IT지원팀 |

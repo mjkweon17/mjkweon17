@@ -75,7 +75,7 @@
 
 ## 💻Other Experiences
 - **KUCC** *(Korea University Computer Club)* *(2023.3 ~ 현재)*
-  - 現 운영진(교류친목부)
+  - 운영진(교류친목부)
   - 다양한 개발 분야에 대해 다루는 '[찍어 먹는 개발의 세계](https://kucc.co.kr/community/media/637c95547582f6f944076ea827accf2f?page=1&limit=9&search=)' 세미나 진 *(2023.11)*
   - SKYST 컨퍼런스 - '10분으로 배우는 웹 개발 프로젝트의 프로세스 ' 세션 진행 *(2023.11)*
   - KUCC 50주년 홈커밍 데이 운영 스태프 *(2023.8)*

@@ -1,4 +1,4 @@
-# MinJae Kweon 👋 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/)](https://mindorizip.tistory.com/) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mjkweon17)](https://solved.ac/mjkweon17)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkweon17&count_bg=%232CA4F5&title_bg=%23512AEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# MinJae Kweon 👋 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/)](https://mindorizip.tistory.com/) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mjkweon17)](https://solved.ac/mjkweon17)
 
 <p>
   <em>

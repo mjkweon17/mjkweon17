@@ -32,26 +32,6 @@
 - **고려대학교 인공지능융합전공** *(2022.3 ~ 2023.8)*
 - **ISKL** *(International School of Kuala Lumpur)* *(2007.8 ~ 2012.6)*
 
-## 📚Teaching Experience
-- [**씹어 먹는 백엔드의 세계**](https://lms.kucc.co.kr/course/detail/TFwFK2Lj3Hgmjb0SBd8x) *(2024.3 ~ 2024.5)*
-- [**찍어 먹는 개발의 세계**](https://lms.kucc.co.kr/course/detail/Ki3HUnygJdfmTFQuW1wB) *(2023.9 ~ 2023.12)*
-- **알고리즘 튜터링** *(2023.3 ~ 2023.6)*
-  - 고려대학교 세종캠퍼스 최우수 튜터 선정
-- **자료구조 튜터링** *(2022.3 ~ 2022.6)*
-
-## 💻 Project
-| Period | Project | Introduction | Role | Tech Stack |
-|:---:|:---:|:---:|:---:|:---:|
-| 2024.4 - 2024.5 | **[KUCC Lib](https://github.com/kucc/kubook-backend)** | (리뉴얼) KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Kakao Cloud |
-| 2024.3 | **[MarkIT](https://github.com/Paranmanjang/skyst-backend)** | 사용자가 글을 작성하면 북마크에서 관련 자료를 자동으로 추천해주는 서비스 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform, Kakao Cloud |
-| 2024.2 | **[인생기록](https://github.com/mjkweon17/sparcs-hackathon-a3-backend)** | AI 자서전 코디네이터 | 팀장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform |
-| 2023.7 - 2023.1 | **Dajeong** | 가족 소통 유도 서비스 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform,  |
-| 2023.4 - 2023.8 | **[KUCC Lib](https://github.com/kucc/library-service-server-test)** | KUCC 도서 관리 웹사이트 백엔드 | 백엔드 파트장 | FastAPI, MySQL, Docker, GitHub Actions, Naver Cloud Platform |
-| 2022.10 - 2022.11 | **[REAV](https://github.com/REAV-Web/REAV-back-end)** | 소비자 리뷰를 분석해서 AI 평점을 보여주는 쇼핑몰 웹 | 백엔드 | Spring Boot, MariaDB, GitHub Actions, AWS Elastic Beanstalk |
-| 2022.7 - 2022.12 | **[KULib](https://github.com/KULib-Project/KULibraryApp_FE)** | 대학교 도서관 앱 개선 프로젝트 | 프론트엔드 | React Native, Java Script, Expo |
-| 2022.5 - 2022.6 | **영화 리뷰 분석** | 네이버 영화 부정 리뷰에서 자주 사용되는 단어와 토픽 찾기 | 팀장 | scikit-learn |
-
-
 ## 🏆Awards
 | Date | Competition | Award | Institution |
 |:---:|:---:|:---:|:---:|
@@ -69,18 +49,7 @@
 
 ## 🗣️ Language Proficiency
 - **English**
-  - OPIc- IH *(2024.3.14)*
-  - TOEIC - 910 *(2023.3.26)*
+  - OPIc- AL *(2023)*
+  - TOEIC - 910 *(2023)*
   - Capable of writing and presenting academic papers in English <!-- with clarity and precision, given the time to prepare. -->
 
-## 💻Other Experiences
-- **KUCC** *(Korea University Computer Club)* *(2023.3 ~ 현재)*
-  - 운영진(교류친목부)
-  - 다양한 개발 분야에 대해 다루는 '[찍어 먹는 개발의 세계](https://kucc.co.kr/community/media/637c95547582f6f944076ea827accf2f?page=1&limit=9&search=)' 세미나 진 *(2023.11)*
-  - SKYST 컨퍼런스 - '10분으로 배우는 웹 개발 프로젝트의 프로세스 ' 세션 진행 *(2023.11)*
-  - KUCC 50주년 홈커밍 데이 운영 스태프 *(2023.8)*
-- 여름 야놀자 개발자 특강 수강 *(2023.7.26 ~ 2023.8.23)*
-  - 실리콘밸리 개발자로 향하는 길: 구글 상위 5% 소프트웨어 엔지니어링 가이드
-
-## 📫 Contact
-- Email: mjkweon17@korea.ac.kr
